@@ -1,4 +1,4 @@
-# python-whatsapp-bot
+# dragon-whatsapp-bot
 
 A whatsapp client library for python utilizing the [WhatsApp Business Cloud API](https://developers.facebook.com/docs/whatsapp/cloud-api).
 
